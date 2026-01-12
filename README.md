@@ -29,3 +29,21 @@ This command downloads the project from GitHub to your computer:
 
 ```bash
 git clone git@github.com:Avinash143-ay/database__project.git
+### 2️⃣ Enter the Project Directory  
+
+Move into the project folder:
+
+```bash
+cd database__project
+
+### 3️⃣ Explore the Modules  
+
+Each module is organized in its own folder:
+
+- **Module-1** → Database schema & SQL files  
+- **Module-2** → ER diagrams & UI designs  
+- **Module-3** → Flask APIs with authentication  
+- **Module-4** → Custom DBMS with B+ Tree indexing  
+
+Open any module folder to view its files and instructions.
+
